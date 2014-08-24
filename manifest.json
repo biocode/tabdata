@@ -1,0 +1,22 @@
+{
+  "name": "Tabdata",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "description": "Collects the URL of each tab for you.",
+  "homepage_url": "https://github.com/biocode/tabdata",
+  "icons": {
+    "16": "icons/icon16.png",
+    "19": "icons/icon19.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_title": "Collect Tab URLs",
+    "default_popup": "src/browser_action/browser_action.html"
+  },
+  "permissions": [
+    "tabs",
+    "windows"
+  ]
+}
