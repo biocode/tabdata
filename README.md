@@ -1,4 +1,4 @@
-<img src="icons/icon48.png" /> # tabdata
+# <img src="icons/icon48.png" /> tabdata
 =======
 
 ## Collects URLs of all your tabs
