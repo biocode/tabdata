@@ -1,4 +1,4 @@
-# tabdata
+(https://raw.githubusercontent.com/biocode/tabdata/master/icons/icon48.png) # tabdata
 =======
 
 ## Collects URLs of all your tabs
